@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android-sdk-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\sjq_project\Individual_project\MultiThreadDownload\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_a919f517047898feb19677e7818351ca731c352e.jar" />
+    </item>
+    <item
+        jar="E:\sjq_project\Individual_project\MultiThreadDownload\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="13210d10918dcab90f2657d2f057803ea8c98e0d">
+        <dex dex="E:\sjq_project\Individual_project\MultiThreadDownload\app\build\intermediates\pre-dexed\debug\instant-run_2434dac430b76ac057ae8619889845e90736ea22.jar" />
+    </item>
+    <item
+        jar="E:\sjq_project\Individual_project\MultiThreadDownload\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0fd18321e5b7cd449ce98083d3afe6a8998ccf9b">
+        <dex dex="E:\sjq_project\Individual_project\MultiThreadDownload\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_534eae8c8df4d057015cd0c400f52f2ea4252e42.jar" />
+    </item>
+
+</items>

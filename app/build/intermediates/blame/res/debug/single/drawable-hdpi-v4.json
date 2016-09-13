@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_next.png",
+        "source": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\src\\main\\res\\drawable-hdpi\\player_next.png"
+    },
+    {
+        "merged": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_pre.png",
+        "source": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\src\\main\\res\\drawable-hdpi\\player_pre.png"
+    },
+    {
+        "merged": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_stop.png",
+        "source": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\src\\main\\res\\drawable-hdpi\\player_stop.png"
+    },
+    {
+        "merged": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_play.png",
+        "source": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\src\\main\\res\\drawable-hdpi\\player_play.png"
+    },
+    {
+        "merged": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_pause.png",
+        "source": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\src\\main\\res\\drawable-hdpi\\player_pause.png"
+    }
+]

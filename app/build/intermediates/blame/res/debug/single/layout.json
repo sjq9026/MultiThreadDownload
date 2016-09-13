@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\build\\intermediates\\res\\merged\\debug\\layout\\onlinelist_item.xml",
+        "source": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\src\\main\\res\\layout\\onlinelist_item.xml"
+    },
+    {
+        "merged": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\build\\intermediates\\res\\merged\\debug\\layout\\play_view.xml",
+        "source": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\src\\main\\res\\layout\\play_view.xml"
+    },
+    {
+        "merged": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\build\\intermediates\\res\\merged\\debug\\layout\\onlinelist_view.xml",
+        "source": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\src\\main\\res\\layout\\onlinelist_view.xml"
+    },
+    {
+        "merged": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\sjq_project\\Individual_project\\MultiThreadDownload\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
